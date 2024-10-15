@@ -22,7 +22,7 @@ const items = [
     title: "Coffee Creations",
     img: "https://i.ibb.co/pxc1GM9/Screenshot-2024-10-14-225919.png",
     desc: "Coffee Creations is a cozy coffee house website offering a wide variety of specialty coffees for every taste.",
-    link: "https://github.com/BhaveshSawant20/SCT_WD_1",
+    link: "https://github.com/BhaveshSawant20/Coffee-House-Website.git",
   },
   {
     id: 4,
