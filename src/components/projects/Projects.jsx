@@ -29,7 +29,7 @@ const items = [
     title: "To Do List Application",
     img: "https://i.ibb.co/dJVvbZz/Screenshot-2024-10-14-230032.png",
     desc: "A To-Do List web application that helps you organize, track, and manage tasks efficiently with features to add, edit, and delete items.",
-    link: "https://github.com/BhaveshSawant20/OIBSIP/tree/main/Level%202%20Task%203%20A%20Basic%20To-Do%20Webapp",
+    link: "https://github.com/BhaveshSawant20/A-Basic-To-Do-Webapp.git",
   },
 ];
 
