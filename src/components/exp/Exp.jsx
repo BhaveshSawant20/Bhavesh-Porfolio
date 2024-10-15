@@ -68,7 +68,7 @@ const Services = () => {
             and scale applications. I also collaborated on optimizing cloud 
             resources for efficiency and security within real-world projects.
           </p>
-          <a href="YOUR_LINKEDIN_POST_URL_FOR_CLOUD_INTERN" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/posts/bhaveshsawant20_cloudcomputing-internshipexperience-ifuturetechnologies-activity-7251826633148383232-9lUQ?utm_source=share&utm_medium=member_desktop" target="_blank" rel="noopener noreferrer">
             <button>Go</button>
           </a>
         </motion.div>
